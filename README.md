@@ -1,4 +1,5 @@
-# 👨🏻‍💻 [wpdlatms112](https://anuragsingh.dev) [@naver.com](https://anuragsingh.dev)
+# 👨🏻‍💻  변동환 [wpdlatms112@naver.com](https://anuragsingh.dev)
+## 한국항공대학교 소프트웨어학과 재학중.
 
 :wave: Hello! I'm founder of [@hackclubnmit](https://github.com/hackclubnmit) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
